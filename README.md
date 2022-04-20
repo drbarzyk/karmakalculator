@@ -14,6 +14,7 @@
 1. Visit https://www.reddit.com/prefs/apps
 2. Create a new app
 3. Make a note of the **personal use script** and **secret** (*We'll use these later*)
+    ![image](https://user-images.githubusercontent.com/33323497/164302660-c75507a1-144a-4dd2-a7a3-9ebe312d8741.png)
 
 ### Environments
 
@@ -39,13 +40,13 @@
     - Reddit **password**  
 
 *Leave the 'headers' and 'timestamp' variables blank*  
-
-    `personal_use_script='<PERSONAL_USE_SCRIPT>'  
+###### .env
+    personal_use_script='<PERSONAL_USE_SCRIPT>'  
     secret='<SECRET>'  
     username='<USERNAME>'  
     password='<PASSWORD>'  
     headers=''  
-    timestamp=''`   
+    timestamp=''   
   
  ###### Useful Links
 - https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
