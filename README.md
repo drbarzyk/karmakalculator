@@ -48,5 +48,5 @@
     headers=''  
     timestamp=''   
   
- ###### Useful Links
+ ## Useful Links
 - https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
