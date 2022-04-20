@@ -28,17 +28,24 @@
 
 (!!!) (*You must activate the virtual environment each time to develop in*)  
 
-####__You must do this part for Reddit API to work!__
+
+# __You must do this part for Reddit API to work!__
 ### .env
 
-1. Edit existing .env file to include your **personal_use_script**, **secret**, Reddit **username** and **password**  
+1. Edit existing .env file to include your  
+    - **personal_use_script**
+    - **secret**
+    - Reddit **username**
+    - Reddit **password**  
+
 *Leave the 'headers' and 'timestamp' variables blank*  
-    personal_use_script='<PERSONAL_USE_SCRIPT>'  
+
+    `personal_use_script='<PERSONAL_USE_SCRIPT>'  
     secret='<SECRET>'  
     username='<USERNAME>'  
     password='<PASSWORD>'  
     headers=''  
-    timestamp=''  
+    timestamp=''`   
   
  ###### Useful Links
 - https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
