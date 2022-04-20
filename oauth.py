@@ -23,7 +23,6 @@ data = {
     'username': USERNAME,
     'password': PASSWORD
 }
-
 # setup our header info, which gives reddit a brief description of our app
 headers = {'User-Agent': 'KarmaKalculator/0.0.1'}
 
