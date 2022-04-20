@@ -12,7 +12,7 @@
 ### Reddit API
 
 1. Visit https://www.reddit.com/prefs/apps
-2. Create a new app
+2. Create a new app  
     [ ] web app  
     [ ] installed app  
     [X] script  
