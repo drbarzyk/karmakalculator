@@ -7,21 +7,23 @@
 - Reddit API
 
 ### Clone repository
-- `git clone https://github.com/drbarzyk/karmakalculator.git`
+1. `git clone https://github.com/drbarzyk/karmakalculator.git`
 
 ### Reddit API
 
-- Visit https://www.reddit.com/prefs/apps
-- Create a new app
-- Make a note of the **personal use script** and **secret** (*We'll use these later*)
+1. Visit https://www.reddit.com/prefs/apps
+2. Create a new app
+3. Make a note of the **personal use script** and **secret** (*We'll use these later*)
 
 ### Environments
 
-Create environment  
+1. Create environment  
 - `python3 -m venv venv`  
-Activate environment (!!!)  
+
+2. Activate environment (!!!)  
 - `source venv/bin/activate`  
-Add packages  
+
+3. Add packages  
 - `pip install -r requirements.txt`  
 (!!!) (*You must activate the virtual environment each time to develop in*)  
 
