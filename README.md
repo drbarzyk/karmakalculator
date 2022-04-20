@@ -8,6 +8,7 @@
 
 ### Clone repository
 1. `git clone https://github.com/drbarzyk/karmakalculator.git`
+2. `cd karmakalculator`
 
 ### Reddit API
 
