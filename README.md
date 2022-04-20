@@ -27,7 +27,7 @@
 3. Add packages  
 - `pip install -r requirements.txt`  
 
-(!!!) (*You must activate the virtual environment each time to develop in*)  
+(!!!) *You must activate the virtual environment each time to develop in*  
 
 
 # __You must do this part for Reddit API to work!__
